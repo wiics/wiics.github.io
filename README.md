@@ -1,1 +1,1 @@
-`Releasing Soon! Stay Tuned`
+`Releasing out Soon! Stay Tuned`
