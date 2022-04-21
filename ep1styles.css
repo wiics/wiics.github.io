@@ -1,10 +1,19 @@
 body {}
 .NarratorBox1 {
- font-family: "Copperplate";
+ font-family: "Open Sans Bold", "Italic";
 }
 .NarratorBox2 {
- font-family: "Copperplate";
+ font-family: "Open Sans Bold", "Italic";
 }
 .NarratorBox3 {
- font-family: "Copperplate";
+ font-family: "Open Sans Bold", "Italic";
+}
+.ActualComic {
+ font-family: "Open Sans Bold", "Italic";
+}
+.ActualComic1 {
+ font-family: "Open Sans Bold", "Italic";
+}
+.ActualComic3 {
+ font-family: "Open Sans Bold", "Italic";
 }
